@@ -1,4 +1,4 @@
-# Neuron — Image Classification with Transfer Learning
+# Image Classification with Transfer Learning
 
 Three notebooks demonstrating transfer learning:
 
