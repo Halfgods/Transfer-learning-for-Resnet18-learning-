@@ -1,0 +1,20 @@
+[project]
+name = "neuron"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ddgs>=9.14.4",
+    "fastai>=2.8.7",
+    "fastcore>=1.13.3",
+    "fastdownload>=0.0.7",
+    "graphviz>=0.21",
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+    "numpy>=2.4.6",
+    "opencv-python>=4.13.0.92",
+    "pandas>=3.0.3",
+    "torch>=2.12.0",
+    "torchview>=0.2.7",
+]
